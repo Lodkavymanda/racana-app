@@ -76,10 +76,10 @@
                         <div class="trending-bottom mb-3">
                             <div class="container">
                                 <div class="row mb-3">
-                                    <h2>MARS AMBACANA ARS UNIVERSITY</h2>
+                                    <h2>SANDI AMBACANA ARS UNIVERSITY</h2>
                                 </div>
                                 <div class="row">
-                                    <p>ini nantinya mars.</p> <br>
+                                    <p>GALINK.</p> <br>
                                     
                                 </div>
                             </div>
